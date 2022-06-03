@@ -1,0 +1,12 @@
+1. Linear Regression Model Results:
+                    Mean               : 5.058676008476214
+                    Standard Deviation : 0.740128228576836
+
+
+2. Decision Regression Model Results:
+                    Mean               : 4.713084795215659
+                    Standard Deviation : 0.8407260513115297
+
+3. Random Forest Regression Model Results:
+                    Mean               : 3.345552130740051
+                    Standard Deviation : 0.4179869372339732
